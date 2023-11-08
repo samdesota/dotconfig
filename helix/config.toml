@@ -1,0 +1,12 @@
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+
+[keys.select]
+"$" = "goto_line_end"
+"^" = "goto_line_start"
+
+[keys.normal]
+"$" = "goto_line_end"
+"^" = "goto_line_start"
